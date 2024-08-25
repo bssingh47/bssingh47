@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bssingh47
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in cloud computing,Data Scraping, Data Science etc.
 - 🌱 I’m currently learning and exploring
-- 💞️ I’m looking to collaborate on cloud projects
+- 💞️ I’m looking to collaborate on Data Science Project
 - 📫 mali : bholeshankarsingh47@gmail.com
 
 <!---
